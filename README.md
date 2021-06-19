@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/YPUXKtp.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/Bb1Rcnh.png" height="175px"/></a>
 
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kudo Khang</h1>
