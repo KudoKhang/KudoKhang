@@ -7,7 +7,7 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m looking for a job **AI Internship**
+- 🔭 I’m seeking for a job **AI Internship**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & Computer Vision**
 
