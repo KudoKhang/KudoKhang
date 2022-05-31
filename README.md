@@ -49,13 +49,8 @@
 
 ## 4. Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/kudo-khang-9668a315a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/khang-nghia-9668a315a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://facebook.com/Gay.Okie"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCOVJ7EbqhyGTr3p9mKF22cg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "live:thanhchem.k39a1"><img src="https://img.icons8.com/fluent/48/000000/skype.png"/></a>
-
-
 </p>
 
 ## 5. ❤ Views and Followers
