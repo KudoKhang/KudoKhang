@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <strong>K</strong></h1>
-<h3 align="center">I'm on my way to becoming a AI engineer !!</h3>
+<h3 align="center">I'm on my way to becoming an AI engineer !!</h3>
 
 
 ## **I**. 🙋‍♂️ About Me
