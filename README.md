@@ -41,6 +41,9 @@ AI Engineer & Backend Developer with 4+ years of experience in building scalable
     </a>
 </p>
 
+
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/KudoKhang/KudoKhang/refs/heads/output/github-snake-dark.svg" height="100px"/></a>
+
 ---
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/hnkhang.dev) 
